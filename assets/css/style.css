@@ -14,8 +14,9 @@ body {
   }
   
   h2 {
-    color: #666;
     margin-top: 30px;
+    font-size: 28px;
+    text-align: center;
   }
   
   ul, ol {
@@ -27,4 +28,12 @@ body {
     margin-bottom: 10px;
   }
   
-  
+  .titolo1{
+    background-color: aquamarine;
+  }
+  .titolo2{
+    background-color: orange;
+  }
+  .titolo3{
+    background-color: yellow;
+  }
